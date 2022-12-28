@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡  I like to explore new technologies and develop software solutions and quick hacks.<br>🎓  I'm currently studying Web Full stack development<br>🌱  I'm on track for learning more about Web technologies , Systems Design, Data analyst , and  business intelligence.<br>✍️  In my free time, I pursue Digital  Marketing tricks and Blog Writing and content création on YouTube as hobbies.<br>💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>✉️  You can shoot me an email at chaooukatweb@gmail.com! I'll try to respond as soon as I can.<br><br><br>
+💡  I like to explore new technologies and develop software solutions and quick hacks.<br>🎓  I'm currently studying Web Full stack development<br>🌱  I'm on track for learning more about Web technologies , Systems Design, Data analyst , and  business intelligence.<br>✍️  In my free time, I pursue Digital  Marketing tricks and Blog Writing and content création on YouTube as hobbies.<br>💬  Feel free to reach out to me for pro  consulting and volunteering, or just for some interesting discussion.<br>✉️  You can shoot me an email at chaooukatweb@gmail.com! I'll try to respond as soon as I can.<br><br><br>
 
 
 ## 🌐 Socials:
