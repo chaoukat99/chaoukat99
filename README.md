@@ -1,5 +1,5 @@
 <div>
-  <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="My_banner" />
+  <img src="https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif" alt="My_banner" />
 </div>
   <h1 align="center"> Hi 👋, I'm OMAR CHAOUKAT </h1>
 
