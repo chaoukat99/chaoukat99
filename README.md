@@ -4,7 +4,7 @@
   <h1 align="center" style="box-shadow:1px 1px 10px blue"> Hi 👋, I'm OMAR CHAOUKAT </h1>
 
 # 💫 About Me:
-💡 I like to explore new technologies and develop software solutions and quick hacks.<br>🎓 I'm currently studying Software Engineering<br>🌱 I'm on track for learning more about Web technologies , Systems Design, Data analyst , and business intelligence.<br>✍️ In my free time, I pursue Digital Marketing tricks and Blog Writing and content création on YouTube as hobbies.<br>💬 Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion.<br>✉️ You can shoot me an email at chaoukatweb@gmail.com ! I'll try to respond as soon as I can
+💡 I like to explore new technologies and develop software solutions and quick hacks.<br>🎓 I'm currently studying Software Engineering<br>🌱 I'm on track for learning more about Web technologies , Systems Design, Data analyst , and business intelligence.<br>✍️ In my free time, I pursue Digital Marketing tricks and Blog Writing and content création on YouTube as hobbies.<br>💬 Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion.<br>✉️ You can shoot me an email at omar1chaoukt@gmail.com ! I'll try to respond as soon as I can
 
 
 # 💻 Tech Stack:
